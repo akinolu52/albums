@@ -1,0 +1,1 @@
+cd  C:\Users\YourPcName\AppData\Local\Android\sdk\tools   && emulator @NEXUS_5_API_23
